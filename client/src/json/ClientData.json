@@ -1,0 +1,55 @@
+{
+  "WorkData": [
+    {
+      "id": 1,
+      "name": "xyx",
+      "description": "lorem klfoehnfjss",
+      "logo": "",
+      "small-description": "",
+      "image": "",
+      "vid": ""
+    }
+  ],
+  "Clients": [
+    {
+      "key": 1,
+      "logo": "https://cdn-emibj.nitrocdn.com/MKXLgsGZfIROZOllEkhzjIQMbcTYbmbD/assets/static/optimized/rev-12f9976/wp-content/uploads/2021/03/fireball_v2.svg",
+      "alt": "Eternalmac"
+    },
+    {
+      "key": 2,
+      "logo": "https://cdn-emibj.nitrocdn.com/MKXLgsGZfIROZOllEkhzjIQMbcTYbmbD/assets/static/optimized/rev-12f9976/wp-content/uploads/2021/03/fireball_v2.svg",
+      "alt": "ITSF"
+    },
+    {
+      "key": 3,
+      "logo": "https://cdn-emibj.nitrocdn.com/MKXLgsGZfIROZOllEkhzjIQMbcTYbmbD/assets/static/optimized/rev-12f9976/wp-content/uploads/2021/03/fireball_v2.svg",
+      "alt": "Dr. Pravin Futane"
+    },
+    {
+      "key": 4,
+      "logo": "https://cdn-emibj.nitrocdn.com/MKXLgsGZfIROZOllEkhzjIQMbcTYbmbD/assets/static/optimized/rev-12f9976/wp-content/uploads/2021/03/fireball_v2.svg",
+      "alt": "EcoSocial"
+    },
+    {
+      "key": 5,
+      "logo": "https://cdn-emibj.nitrocdn.com/MKXLgsGZfIROZOllEkhzjIQMbcTYbmbD/assets/static/optimized/rev-12f9976/wp-content/uploads/2021/03/fireball_v2.svg",
+      "alt": "Flerify"
+    },
+    {
+      "key": 6,
+      "logo": "https://cdn-emibj.nitrocdn.com/MKXLgsGZfIROZOllEkhzjIQMbcTYbmbD/assets/static/optimized/rev-12f9976/wp-content/uploads/2021/03/fireball_v2.svg",
+      "alt": "Eternalmac1"
+    },
+    {
+      "key": 7,
+      "logo": "https://cdn-emibj.nitrocdn.com/MKXLgsGZfIROZOllEkhzjIQMbcTYbmbD/assets/static/optimized/rev-12f9976/wp-content/uploads/2021/03/fireball_v2.svg",
+      "alt": "ITSF1"
+    },
+    {
+      "key": 8,
+      "logo": "https://cdn-emibj.nitrocdn.com/MKXLgsGZfIROZOllEkhzjIQMbcTYbmbD/assets/static/optimized/rev-12f9976/wp-content/uploads/2021/03/fireball_v2.svg",
+      "alt": "Dr. Pravin Futane1"
+    }
+  ]
+}

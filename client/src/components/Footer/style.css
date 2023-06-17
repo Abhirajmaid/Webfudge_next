@@ -1,0 +1,60 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.footer_logo {
+    margin-bottom: -20px;
+}
+
+.footer p {
+    font-size: 23px;
+    width: 50%;
+    text-align: center;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.social_menu {
+    list-style: none;
+    display: flex;
+    gap: 35px;
+    align-items: center;
+}
+
+.social_menu li a {
+    color: white;
+    font-size: 35px;
+    transition: 0.4s;
+}
+
+.social_menu li a:hover {
+    color: var(--prime);
+}
+
+.footer_base {
+    width: 98%;
+    max-width: 1250px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.footer_divider {
+    margin-top: -20px;
+    width: 400px;
+    height: 2px;
+    background-color: var(--prime);
+}
+
+.footer_base p {
+    font-size: 13px;
+    color: gray;
+    text-align: left;
+    font-weight: 300;
+    letter-spacing: 1.4px;
+}

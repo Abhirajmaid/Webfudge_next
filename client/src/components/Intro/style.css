@@ -1,0 +1,47 @@
+.intro_section {
+    width: 80%;
+    max-width: 1300px;
+    display: flex;
+    gap: 30px;
+    padding: 20px;
+    margin: 30px;
+    justify-content: center;
+
+}
+
+.intro_para {
+    width: 50%;
+    padding-top: 40px;
+}
+
+.intro_txt {
+    width: 50%;
+}
+
+.intro_para p {
+    font-size: 18px;
+    line-height: 35px;
+    color: var(--white);
+}
+
+.intro_txt h1 {
+    font-size: 65px;
+    width: 85%;
+    font-weight: 600;
+    line-height: 70px;
+    letter-spacing: 5px;
+}
+
+.contact_btn {
+    padding: 15px;
+    width: 200px;
+    background-color: var(--dark);
+    color: var(--white);
+    border: 2px solid var(--prime);
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.contact_btn:hover {
+    background-color: var(--prime);
+}

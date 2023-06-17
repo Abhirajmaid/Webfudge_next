@@ -1,0 +1,43 @@
+.main {
+    width: 100vw;
+    min-height: 100vh;
+    position: fixed;
+    pointer-events: none;
+}
+
+*,
+*::after {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --prime: #cb01a9f4;
+    --second: #01a3cbf4;
+    --white: #e1e1e1;
+    --dark: #121212;
+    --alert: #bd0000;
+}
+
+.highlight {
+    color: var(--second);
+}
+
+body {
+    margin: 0;
+    background-color: var(--dark);
+    color: var(--white);
+    font-family: 'Poppins', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}
+
+.transition {
+    transition: 0.4s;
+}

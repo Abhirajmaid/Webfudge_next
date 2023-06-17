@@ -1,0 +1,29 @@
+.nav_menu {
+    list-style: none;
+    display: flex;
+    gap: 35px;
+    align-items: center;
+}
+
+.nav_menu>li {
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 300;
+}
+
+.legal_menu {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+}
+
+.legal_menu li {
+    cursor: pointer;
+    text-transform: capitalize;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    color: var(--white);
+}
